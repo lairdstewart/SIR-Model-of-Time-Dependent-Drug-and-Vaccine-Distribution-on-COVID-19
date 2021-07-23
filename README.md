@@ -1,4 +1,4 @@
-### Covid-Publication
+## SIR Model of Time Dependent Drug and Vaccine Distrubution on COVID-19
 
 First place manuscript in the Emory University Mathematics Association's 2020 COVID-19 Modeling contest. Reviesed and published with team of three undergraduates in SIAM's undergraduate journal (SIURO). https://www.siam.org/publications/siuro/volume-14
 
